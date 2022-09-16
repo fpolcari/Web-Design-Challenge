@@ -8,5 +8,5 @@ Some of the considerations were as follows:
 We had to use Bootstrap which included a Bootstrap navbar component for the header on every page, the Bootstrap grid for responsiveness on the comparison page, and the Bootstrap table component for the data page.
 We also had to deploy our webpage to GitHub Pages, and as a result, the website works at a live, publicly accessible URL.
 We were expected to use CSS media query that uses Bootstrap and/or @media for the navigation bar.
-And finally, we had to make sure that your website works at all window widths.
+And finally, we had to make sure that our website works at all window widths.
 
